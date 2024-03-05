@@ -16,4 +16,18 @@
 
 // splice() method --> changes the original array(add, remove, replace)
 
-// splice(startIndex, delCount, newEl1..)
+// splice(startIndex, delCount, newEl1..)  
+
+
+// IMPORTED ARRAY METHODS
+
+// map() method --> creates a new array with the results of some operation. The value its callback returns are used to form new array
+
+// arr.map(callbackFunc(val, idx, arr))
+
+// filter() method --> creates a new array of elements that give true for a condition/filter
+
+// arr.filter(val)
+
+// reduce() method --> performs some operations & reduces the array to single value.It returns that single value.
+
