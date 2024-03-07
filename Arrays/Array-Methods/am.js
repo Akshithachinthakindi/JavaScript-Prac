@@ -31,3 +31,4 @@
 
 // reduce() method --> performs some operations & reduces the array to single value.It returns that single value.
 
+ 
