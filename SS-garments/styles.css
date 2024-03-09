@@ -1,0 +1,168 @@
+/* body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #888098;
+}
+
+.header {
+    background-color: #CFB3CD;
+    color: #344055;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.header #title {
+    margin: 0;
+    padding: 2vmin;
+}
+
+.buttons {
+    padding: 10px 20px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+}
+
+.btn{
+    margin-top: 5rem;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+}
+#orange {
+    background-color: orange;
+}
+
+#orange:hover {
+    background-color: rgb(209, 165, 82);
+}
+
+#purple{
+    background-color: purple;
+}
+
+#purple:hover{
+    background-color: rgb(172, 48, 172);
+}
+
+#pink{
+    background-color: pink;
+}
+
+#pink:hover{
+    background-color: rgb(215, 176, 183);
+}
+
+p {
+    padding: 10px 20px;
+    margin-top: 3rem;
+    display: flex;
+    font-size: 40px;
+    background-color: #344055;
+    height: 3rem;
+    width: 19rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.para {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  /* Header styles */
+  .header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header #title {
+    margin: 0;
+    padding: 10px;
+  }
+  
+  /* Button styles */
+  .buttons {
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .btn {
+    margin-top: 2rem;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+    font-size: 20px;
+    color: white;
+  }
+  
+  #orange {
+    background-color: #f39c12;
+  }
+  
+  #orange:hover {
+    background-color: #e67e22;
+  }
+  
+  #purple {
+    background-color: #9b59b6;
+  }
+  
+  #purple:hover {
+    background-color: #8e44ad;
+  }
+  
+  #pink {
+    background-color: #e91e63;
+  }
+  
+  #pink:hover {
+    background-color: #c2185b;
+  }
+
+#choose {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #344055;
+    color: white;
+    cursor: pointer;
+    margin-top: 5rem;
+    border: none;
+}
+
+  
